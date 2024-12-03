@@ -1,0 +1,13 @@
+0	airplane
+1	animal
+2	automobile
+3	bird
+4	cat
+5	deer
+6	dog
+7	frog
+8	horse
+9	root
+10	ship
+11	transportation
+12	truck
